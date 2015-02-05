@@ -8,7 +8,7 @@
 
 Participants pledge to refrain from all forms of harassment. Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Participants asked to stop any harassing or violent behavior are expected to comply immediately.
 
 Participants violating these rules may be asked to leave {event/org/project} with the consensus of the organizers. All such actions will be documented and publicly reported.
 
