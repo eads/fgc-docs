@@ -1,12 +1,18 @@
-# Code of Conduct
+# Basic code of Conduct
 
-FreeGeek Participants, including Staff Persons, Volunteers, Speakers, and Guests, pledge to act in a respectful manner at all times while in and around the FreeGeek space, and whenever interacting with another FreeGeek Participant during core hours.
+{event/project/org} participants, including staff persons, volunteers, speakers, and guests, pledge to act in a respectful manner at all times while in and around the {event} space, and whenever interacting with another participant.
 
-FreeGeek is a diverse space, and we welcome a diversity of perspectives. All Participants should display common courtesy and sensitivity towards anyone who comes through FreeGeek's doors.
+{event} is about {topic}. Participants pledge to refrain from any sexual language, innuendo or offensive remarks related to gender, sexual orientation, spiritual belief systems and religion, political views or ethnicity. Disparaging remarks about any group of people, unwanted sexual advances towards others, excessive cursing, cursing around children and other disruptive behaviors are unacceptable. These behaviors are unrelated to {event}'s goals and are alienating to other participants.
 
-FreeGeek is strongly opposed to violence and to insure that each person that is involved with FreeGeek or that is in the FreeGeek space has a sense of security and can maintain their personal dignity, FreeGeek is committed to active nonviolence, in speech and action. FreeGeek Participants pledge to respectfully and peacefully resolve any disputes or disagreements.
+{event} is a diverse space, and we welcome a diversity of perspectives. All participants should display common courtesy and sensitivity towards anyone who comes to {meetings, the gathering, online spaces}.
 
-FreeGeek is an information technology-oriented organization. Participants pledge to refrain from any sexual language, innuendo or offensive remarks related to gender, sexual orientation, spiritual belief systems and religion, political views or ethnicity. Disparaging remarks about any group of people, unwanted sexual advances towards others, excessive cursing, cursing around children and other disruptive behaviors are unacceptable. These behaviors are unrelated to FreeGeek's goals and they can be completely alienating to other Participants.
+{event} is committed to active nonviolence in speech and action. {event} participants pledge to respectfully and peacefully resolve any disputes or disagreements. 
 
-If two or more Staff Persons agree (unless only one Staff Person is on duty), any Participant may be asked to leave the space for the remainder of any open day. If any Staff Person believes that more serious measures are required, the Staff will meet and attempt to reach consensus on a course of action.
+Participants violating these rules may be asked to leave {event} with the consensus of the organizers. All such actions will be documented and publicly reported.
+
+To report a violation of this code, participants should contact:
+
+* Ida Tarbell (ida@tarbell.io) *Add real contact details here*
+
+Participants may also submit an anonymous incident report. *Link to secure form or place where you can get and drop off a printed copy*
 
