@@ -1,14 +1,16 @@
 # Basic code of Conduct
 
-{event/project/org} participants, including staff persons, volunteers, speakers, and guests, pledge to act in a respectful manner at all times while in and around the {event} space, and whenever interacting with another participant.
+{event/project/org} participants, including paid staff staff, volunteers, speakers, and guests, pledge to act in a respectful manner at all times during official {meeting times and spaces}.
 
-{event} is about {topic}. Participants pledge to refrain from any sexual language, innuendo or offensive remarks related to gender, sexual orientation, spiritual belief systems and religion, political views or ethnicity. Disparaging remarks about any group of people, unwanted sexual advances towards others, excessive cursing, cursing around children and other disruptive behaviors are unacceptable. These behaviors are unrelated to {event}'s goals and are alienating to other participants.
+{event/project/org} welcomes a diversity of perspectives about {topic}. Participants pledge to display common courtesy and sensitivity towards anyone who comes to {meetings, the event, online spaces}.
 
-{event} is a diverse space, and we welcome a diversity of perspectives. All participants should display common courtesy and sensitivity towards anyone who comes to {meetings, the gathering, online spaces}.
+{event/project/org} is committed to active nonviolence in speech and action. Participants pledge to respectfully and peacefully resolve any disputes or disagreements.
 
-{event} is committed to active nonviolence in speech and action. {event} participants pledge to respectfully and peacefully resolve any disputes or disagreements. 
+Participants pledge to refrain from all forms of harassment. Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
-Participants violating these rules may be asked to leave {event} with the consensus of the organizers. All such actions will be documented and publicly reported.
+Participants asked to stop any harassing behavior are expected to comply immediately.
+
+Participants violating these rules may be asked to leave {event/org/project} with the consensus of the organizers. All such actions will be documented and publicly reported.
 
 To report a violation of this code, participants should contact:
 
