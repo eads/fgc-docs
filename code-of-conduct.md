@@ -1,6 +1,6 @@
 # Basic code of Conduct
 
-{event/project/org} participants, including paid staff staff, volunteers, speakers, and guests, pledge to act in a respectful manner at all times during official {meeting times and spaces}.
+{event/project/org} participants, including paid staff, volunteers, speakers, and guests, pledge to act in a respectful manner at all times during official {meeting times and spaces}.
 
 {event/project/org} welcomes a diversity of perspectives about {topic}. Participants pledge to display common courtesy and sensitivity towards anyone who comes to {meetings, the event, online spaces}.
 
